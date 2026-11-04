@@ -8,7 +8,7 @@ Canonical terminology for MAMA (Measuring Automation & Measuring Autonomy). Thes
 
 **MAMA** — uppercase — *Measuring Automation & Measuring Autonomy*. The umbrella framework, organization, architecture, integrated approach, and shared toolset. This organization.
 
-**`mama`** — lowercase, in code formatting — *measuring and managing autonomy*. A distinct autonomy method used within MAMA. Canonical home: [`emmanuel-a-otchere/MeasuringAndManagingAutonomy`](https://github.com/emmanuel-a-otchere/MeasuringAndManagingAutonomy). Never merge the names, ownership, repositories, or scores.
+**`mama`** — lowercase, in code formatting — *measuring and managing autonomy*. A distinct autonomy method used within MAMA. Canonical home: [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy). Never merge the names, ownership, repositories, or scores.
 
 **MAMA automation measurement** — the umbrella's own automation and outcome measurement capability. Not supplied by the `mama` autonomy score.
 

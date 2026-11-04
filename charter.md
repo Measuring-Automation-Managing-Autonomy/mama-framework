@@ -21,7 +21,7 @@ MAMA integrates these views. It covers systems and networks that are autonomous,
 
 > MAMA (Measuring Automation & Measuring Autonomy) uses the `mama` (measuring and managing autonomy) method for its autonomy-governance component.
 
-The lowercase `mama` method is a distinct autonomy method whose canonical home is [`emmanuel-a-otchere/MeasuringAndManagingAutonomy`](https://github.com/emmanuel-a-otchere/MeasuringAndManagingAutonomy). MAMA is the umbrella framework and organization; `mama` is one of its components. The names' case, ownership, homes, repositories, and scores are never merged. MAMA consumes `mama`'s versioned outputs through an explicit interface and does not redefine, rename, or recalculate its scores. MAMA's automation measurement is its own capability and is not represented as supplied by the `mama` autonomy score.
+The lowercase `mama` method is a distinct autonomy method whose canonical home is [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy). MAMA is the umbrella framework and organization; `mama` is one of its components. The names' case, ownership, homes, repositories, and scores are never merged. MAMA consumes `mama`'s versioned outputs through an explicit interface and does not redefine, rename, or recalculate its scores. MAMA's automation measurement is its own capability and is not represented as supplied by the `mama` autonomy score.
 
 ## 2. Scope
 

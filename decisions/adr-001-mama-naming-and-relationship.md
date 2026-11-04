@@ -7,7 +7,7 @@
 Two entities share the word MAMA:
 
 1. The umbrella framework/organization — displayed by the GitHub org (slug `Measuring-Automation-Managing-Autonomy`).
-2. The lowercase `mama` method (*measuring and managing autonomy*) — canonical home [`emmanuel-a-otchere/MeasuringAndManagingAutonomy`](https://github.com/emmanuel-a-otchere/MeasuringAndManagingAutonomy), ruleset v2.0.0, ledger schema 2.
+2. The lowercase `mama` method (*measuring and managing autonomy*) — canonical home [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy), ruleset v2.0.0, ledger schema 2.
 
 The organization's original display name used "**Managing** Autonomy", which collides with the `mama` method's expansion and mis-describes the umbrella. The CR (MAMA-ORG-CR-001) fixes the umbrella's expansion as **Measuring Automation & Measuring Autonomy** and requires the two identities to stay distinct.
 

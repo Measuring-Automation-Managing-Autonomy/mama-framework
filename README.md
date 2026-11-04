@@ -6,7 +6,7 @@
 
 This repository holds the umbrella charter, canonical terminology, reference architecture, concepts and lifecycle, implementation method, role model, risk/value interpretation rules, external mappings, and the integration contract to the lowercase `mama` method. If a definition conflicts anywhere else in the organization, this repository wins until an ADR says otherwise.
 
-> **First reference:** MAMA (Measuring Automation & Measuring Autonomy) uses the `mama` (measuring and managing autonomy) method for its autonomy-governance component. The `mama` method's canonical home is [`emmanuel-a-otchere/MeasuringAndManagingAutonomy`](https://github.com/emmanuel-a-otchere/MeasuringAndManagingAutonomy). The names are case-sensitive and their homes, ownership, repositories, and scores are not merged.
+> **First reference:** MAMA (Measuring Automation & Measuring Autonomy) uses the `mama` (measuring and managing autonomy) method for its autonomy-governance component. The `mama` method's canonical home is [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy). The names are case-sensitive and their homes, ownership, repositories, and scores are not merged.
 
 ## Contents
 
