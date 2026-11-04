@@ -2,6 +2,15 @@
 
 All notable changes to the MAMA framework documents. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions are semver. `draft`-status artifacts may change without notice; `reviewed`/`stable` artifacts change only with an ADR.
 
+## [0.3.0] — 2026-11-05
+
+### Added
+
+- `adoption-walkthrough.md` — self-guided ~90-minute walkthrough of the MAMA
+  integration layer (registry → baselines → hypothesis → autonomy import →
+  review decisions), companion to the upstream `mama` training module;
+  Phase 5 adoption content (charter roadmap)
+
 ## [0.2.0] — 2026-11-04
 
 ### Added
