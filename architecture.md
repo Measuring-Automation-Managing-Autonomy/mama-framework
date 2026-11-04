@@ -13,8 +13,8 @@ MAMA organizes automation/autonomy governance around seven linked components. Th
 | 3 | **Technology & capability inventory** | What runs it? AI models, software, robotic systems, networks, data, infrastructure, vendors, versions, owners, lifecycle status | Use-case record / asset registry |
 | 4 | **Automation measurement** | How much work is automated, how well it performs, what outcomes and benefits are realized | [`mama-metrics`](https://github.com/Measuring-Automation-Managing-Autonomy/mama-metrics) |
 | 5 | **Autonomy measurement & management (`mama`)** | What decision authority is delegated, at what level, with what controls — via autonomy contracts, six-dimension profiles, ledger, evidence, review decisions | Upstream `mama` tool, imported via [`mama-integrations`](https://github.com/Measuring-Automation-Managing-Autonomy/mama-integrations) |
-| 6 | **Risk, assurance & impact** | What could go wrong and what controls exist? Reliability, safety, security, privacy, fairness, human oversight, legal/sector obligations, resilience, workforce/customer impact, environmental impact where material, incident learning | Risk/impact review template; control register |
-| 7 | **Value realization & continuous improvement** | Did it pay off against baseline and hypothesis? Continue / adjust / expand / constrain / retire | Baseline & value-hypothesis template; review decisions |
+| 6 | **Risk, assurance & impact** | What could go wrong and what controls exist? Reliability, safety, security, privacy, fairness, human oversight, legal/sector obligations, resilience, workforce/customer impact, environmental impact where material, incident learning | [Practice maturity model](maturity-model.md) (operating-practice profile); risk/impact review template; control register |
+| 7 | **Value realization & continuous improvement** | Did it pay off against baseline and hypothesis? Continue / adjust / expand / constrain / retire | [Value framework](value-framework.md); baseline & value-hypothesis template; review decisions |
 
 ## Traceability chain
 
