@@ -5,7 +5,7 @@
 | Field | Value |
 |---|---|
 | **MAMA use-case ID** | `usecase-…` |
-| **Metric library version** | e.g. mama-metrics v0.1.0 |
+| **Metric library version** | e.g. mama-metrics v0.2.0 |
 | **Baseline window** | from – to (state why this window is representative) |
 | **Measurement mode** | observed / estimate / forecast *(label every number below)* |
 | **Attribution method** | before/after with confound handling; matched comparison; controlled rollout; none (say so) |

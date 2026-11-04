@@ -2,7 +2,7 @@
 
 **MAMA** (Measuring Automation & Measuring Autonomy) — the source of truth for what MAMA means.
 
-**Status:** `draft` (v0.1.0) · **License:** CC-BY-4.0 · **Maintainer:** see [MAINTAINERS.md](MAINTAINERS.md)
+**Status:** `draft` (v0.2.0) · **License:** CC-BY-4.0 · **Maintainer:** see [MAINTAINERS.md](MAINTAINERS.md)
 
 This repository holds the umbrella charter, canonical terminology, reference architecture, concepts and lifecycle, implementation method, role model, risk/value interpretation rules, external mappings, and the integration contract to the lowercase `mama` method. If a definition conflicts anywhere else in the organization, this repository wins until an ADR says otherwise.
 
@@ -19,6 +19,8 @@ This repository holds the umbrella charter, canonical terminology, reference arc
 | [roles.md](roles.md) | Role model: who holds which responsibility |
 | [implementation-guide.md](implementation-guide.md) | End-to-end adoption method, from investment question to operating decision |
 | [risk-value-interpretation.md](risk-value-interpretation.md) | How to interpret measures without collapsing them; no composite score |
+| [maturity-model.md](maturity-model.md) | Autonomous operations practice maturity — five evidence-gated dimensions, descriptive profile (ADR-004) |
+| [value-framework.md](value-framework.md) | The gated value cadence: intake → baseline → hypothesis → measure → attribution → decision |
 | [integration-contract.md](integration-contract.md) | Versioned interface to the upstream `mama` method |
 | [external-mappings.md](external-mappings.md) | Crosswalk approach to NIST, ISO/IEC, OECD, TM Forum, OWASP, MITRE |
 | [templates/](templates/) | Project intake, baseline & value hypothesis, workflow & decision-rights mapping, risk/impact review |
@@ -35,6 +37,8 @@ This repository holds the umbrella charter, canonical terminology, reference arc
 | roles.md | draft |
 | implementation-guide.md | draft |
 | risk-value-interpretation.md | draft |
+| maturity-model.md | draft |
+| value-framework.md | draft |
 | integration-contract.md | draft |
 | external-mappings.md | draft |
 | templates/* | draft |
