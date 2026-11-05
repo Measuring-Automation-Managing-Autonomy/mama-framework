@@ -3,7 +3,7 @@
 **Status:** draft (v0.1.0) · **License:** CC-BY-4.0
 **Implemented by:** [`mama-integrations`](https://github.com/Measuring-Automation-Managing-Autonomy/mama-integrations) · **Upstream:** [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy)
 
-This is the versioned interface between MAMA (Measuring Automation & Measuring Autonomy) and the lowercase `mama` (measuring and managing autonomy) method. The upstream repository is canonical for autonomy vocabulary, the L0–L5 scale, autonomy contracts, the ledger, and scoring. MAMA consumes; it never redefines.
+This is the versioned interface between MAMA (Measuring Automation, Managing Autonomy) and the lowercase `mama` (measuring and managing autonomy) method. The upstream repository is canonical for autonomy vocabulary, the L0–L5 scale, autonomy contracts, the ledger, and scoring. MAMA consumes; it never redefines.
 
 ## What MAMA consumes
 

@@ -9,7 +9,7 @@ Two entities share the word MAMA:
 1. The umbrella framework/organization — displayed by the GitHub org (slug `Measuring-Automation-Managing-Autonomy`).
 2. The lowercase `mama` method (*measuring and managing autonomy*) — canonical home [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy), ruleset v2.0.0, ledger schema 2.
 
-The organization's original display name used "**Managing** Autonomy", which collides with the `mama` method's expansion and mis-describes the umbrella. The CR (MAMA-ORG-CR-001) fixes the umbrella's expansion as **Measuring Automation & Measuring Autonomy** and requires the two identities to stay distinct.
+The organization's original display name used "**Managing** Autonomy", which collides with the `mama` method's expansion and mis-describes the umbrella. The CR (MAMA-ORG-CR-001) fixes the umbrella's expansion as **Measuring Automation, Managing Autonomy** and requires the two identities to stay distinct.
 
 ## Options
 
@@ -21,7 +21,7 @@ The organization's original display name used "**Managing** Autonomy", which col
 
 **Option 2.** The slug remains `Measuring-Automation-Managing-Autonomy` (stability, links, history). The visible identity everywhere (org display name, profile README, repo descriptions, docs, tools, publications) is:
 
-> **MAMA — Measuring Automation & Measuring Autonomy**,
+> **MAMA — Measuring Automation, Managing Autonomy**,
 > which uses the **`mama` (measuring and managing autonomy)** method for its autonomy-governance component.
 
 `mama` stays lowercase in prose and code, links to its canonical home, and keeps its own ownership, repositories, and scores. MAMA's automation measurement is its own capability, never represented as supplied by the `mama` autonomy score.

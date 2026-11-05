@@ -2,6 +2,19 @@
 
 All notable changes to the MAMA framework documents. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions are semver. `draft`-status artifacts may change without notice; `reviewed`/`stable` artifacts change only with an ADR.
 
+## [0.5.0] — 2026-11-05
+
+### Changed (identity — authoritative)
+
+- **ADR-006**: the authoritative expansion of MAMA is **Measuring
+  Automation, Managing Autonomy** — no other spelling permitted. All prior
+  variants corrected across charter, glossary, READMEs, policies,
+  templates, and the upstream `mama` repository (v2.1.2). The comma
+  carries the division of labor (Measuring Automation = MAMA's capability;
+  Managing Autonomy = delivered by `mama`); ADR-001's expansion-vs-slug
+  mismatch is resolved as a side effect. Founding CRs corrected
+  retroactively.
+
 ## [0.4.0] — 2026-11-05
 
 ### Added

@@ -2,11 +2,11 @@
 
 **Status:** draft (v0.1.0) · **License:** CC-BY-4.0
 
-Canonical terminology for MAMA (Measuring Automation & Measuring Autonomy). These definitions are binding across the organization's repositories, tools, and publications. Propose changes via a Framework Proposal issue; accepted changes become ADRs.
+Canonical terminology for MAMA (Measuring Automation, Managing Autonomy). These definitions are binding across the organization's repositories, tools, and publications. Propose changes via a Framework Proposal issue; accepted changes become ADRs.
 
 ## Identity terms
 
-**MAMA** — uppercase — *Measuring Automation & Measuring Autonomy*. The umbrella framework, organization, architecture, integrated approach, and shared toolset. This organization.
+**MAMA** — uppercase — *Measuring Automation, Managing Autonomy* (authoritative expansion, [ADR-006](decisions/adr-006-authoritative-expansion.md); no other spelling permitted). The umbrella framework, organization, architecture, integrated approach, and shared toolset. This organization. The comma carries the division of labor: "Measuring Automation" is MAMA's own capability; "Managing Autonomy" is delivered by `mama`, making `mama` the managing-autonomy component of MAMA by name and by function.
 
 **`mama`** — lowercase, in code formatting — *measuring and managing autonomy*. A distinct autonomy method used within MAMA. Canonical home: [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy). Never merge the names, ownership, repositories, or scores.
 
