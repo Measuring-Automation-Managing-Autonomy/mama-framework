@@ -2,6 +2,20 @@
 
 All notable changes to the MAMA framework documents. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions are semver. `draft`-status artifacts may change without notice; `reviewed`/`stable` artifacts change only with an ADR.
 
+## [0.4.0] — 2026-11-05
+
+### Added
+
+- `indices-and-tracking.md` — the computational and reporting reference:
+  three per-axis display indices (Automation, Autonomy, Value Realization),
+  the series import interface, tracker-record/plot/report rules, and the
+  binding no-cross-axis constraints
+- `decisions/adr-005-display-indices-and-tracker.md` — authorizes the
+  indices and tracker under ADR-003/charter constraints; defers thicker
+  indices, portfolio aggregation, and a practice axis to pilot evidence
+- Tooling: `mama-tools` v0.3.0 implements series import, index computation,
+  and the tracker renderer; `mama-conformance` adds tracker/series suites
+
 ## [0.3.0] — 2026-11-05
 
 ### Added

@@ -2,7 +2,7 @@
 
 **MAMA** (Measuring Automation & Measuring Autonomy) — the source of truth for what MAMA means.
 
-**Status:** `draft` (v0.3.0) · **License:** CC-BY-4.0 · **Maintainer:** see [MAINTAINERS.md](MAINTAINERS.md)
+**Status:** `draft` (v0.4.0) · **License:** CC-BY-4.0 · **Maintainer:** see [MAINTAINERS.md](MAINTAINERS.md)
 
 This repository holds the umbrella charter, canonical terminology, reference architecture, concepts and lifecycle, implementation method, role model, risk/value interpretation rules, external mappings, and the integration contract to the lowercase `mama` method. If a definition conflicts anywhere else in the organization, this repository wins until an ADR says otherwise.
 
@@ -22,6 +22,7 @@ This repository holds the umbrella charter, canonical terminology, reference arc
 | [maturity-model.md](maturity-model.md) | Autonomous operations practice maturity — five evidence-gated dimensions, descriptive profile (ADR-004) |
 | [value-framework.md](value-framework.md) | The gated value cadence: intake → baseline → hypothesis → measure → attribution → decision |
 | [adoption-walkthrough.md](adoption-walkthrough.md) | Self-guided ~90-minute MAMA adoption walkthrough (integration layer) |
+| [indices-and-tracking.md](indices-and-tracking.md) | The computational/reporting reference: three per-axis display indices, the series interface, tracker plot rules (ADR-005) |
 | [integration-contract.md](integration-contract.md) | Versioned interface to the upstream `mama` method |
 | [external-mappings.md](external-mappings.md) | Crosswalk approach to NIST, ISO/IEC, OECD, TM Forum, OWASP, MITRE |
 | [templates/](templates/) | Project intake, baseline & value hypothesis, workflow & decision-rights mapping, risk/impact review |
@@ -41,6 +42,7 @@ This repository holds the umbrella charter, canonical terminology, reference arc
 | maturity-model.md | draft |
 | value-framework.md | draft |
 | adoption-walkthrough.md | draft |
+| indices-and-tracking.md | draft |
 | integration-contract.md | draft |
 | external-mappings.md | draft |
 | templates/* | draft |
