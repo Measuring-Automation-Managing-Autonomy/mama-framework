@@ -1,6 +1,6 @@
 # MAMA Charter
 
-**MAMA — Measuring Automation & Measuring Autonomy**
+**MAMA — Measuring Automation, Managing Autonomy**
 
 **Status:** draft (v0.1.0) · **Owned by:** MAMA Stewardship Council · **License:** CC-BY-4.0
 
@@ -19,7 +19,14 @@ MAMA integrates these views. It covers systems and networks that are autonomous,
 
 ### Relationship to the `mama` method
 
-> MAMA (Measuring Automation & Measuring Autonomy) uses the `mama` (measuring and managing autonomy) method for its autonomy-governance component.
+> MAMA (Measuring Automation, Managing Autonomy) uses the `mama` (measuring and managing autonomy) method for its autonomy-governance component.
+>
+> **The acronym is authoritative and the comma is the constitution.**
+> "Measuring Automation" is MAMA's own capability; "Managing Autonomy" is
+> delivered by `mama` — so each half of the acronym names the instrument
+> that provides it, and `mama` is the managing-autonomy component of MAMA
+> by name and by function. No other spelling is permitted
+> ([ADR-006](decisions/adr-006-authoritative-expansion.md)).
 
 The lowercase `mama` method is a distinct autonomy method whose canonical home is [`emmanuel-a-otchere/measuring-and-managing-autonomy`](https://github.com/emmanuel-a-otchere/measuring-and-managing-autonomy). MAMA is the umbrella framework and organization; `mama` is one of its components. The names' case, ownership, homes, repositories, and scores are never merged. MAMA consumes `mama`'s versioned outputs through an explicit interface and does not redefine, rename, or recalculate its scores. MAMA's automation measurement is its own capability and is not represented as supplied by the `mama` autonomy score.
 
